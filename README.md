@@ -1,4 +1,5 @@
 📊 Telecom Churn Prediction using IBM SPSS Modeler
+
 🧠 Project Overview
 
 This project focuses on predicting customer churn in the telecommunications industry using IBM SPSS Modeler. The goal is to analyze customer data, identify factors contributing to churn, and build a predictive model to help telecom companies retain valuable customers.
@@ -67,9 +68,13 @@ Decision Tree models provided the best interpretability for business insights.
 Data-driven insights can improve retention strategies by targeting at-risk customers early.
 
 📂 Repository Structure
+
 ├── telecom_analysis.str     # SPSS Modeler stream file (project workflow)
+
 ├── README.md                # Project summary (this file)
+
 ├── dataset/                 # (Optional) sample or reference dataset
+
 └── reports/                 # Model evaluation results and charts
 
 🚀 How to Use
